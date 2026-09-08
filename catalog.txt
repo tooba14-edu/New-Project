@@ -1,0 +1,6 @@
+BOOK,102,Data,Zain,true,None,NULL
+EBOOK,e01,Design,NONE,true,None,NULL
+EBOOK,e02,Devil,NONE,true,None,NULL
+BOOK,103,English,Fara,true,None,NULL
+BOOK,101,Java,ALi,true,None,NULL
+BOOK,104,Urdu,Faize,true,None,NULL
