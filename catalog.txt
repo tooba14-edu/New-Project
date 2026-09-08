@@ -1,4 +1,4 @@
-BOOK,102,Data,Zain,true,None,NULL
+BOOK,102,Data,Zain,false,2,2026-09-15
 EBOOK,e01,Design,NONE,true,None,NULL
 EBOOK,e02,Devil,NONE,true,None,NULL
 BOOK,103,English,Fara,true,None,NULL
